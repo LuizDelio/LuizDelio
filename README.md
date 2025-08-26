@@ -7,7 +7,7 @@ Tenho interesse em **tecnologia, programação e desenvolvimento de software**, 
 ---
 
 ### 💻 Habilidades e Conhecimentos
-- Lógica de programação  
+- **Lógica de programação**  
 - **Linguagens de Programação (iniciante):** 
 
     ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
